@@ -1,0 +1,4 @@
+language: ruby
+
+script:
+  - ruby show_env.rb

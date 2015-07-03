@@ -1,0 +1,5 @@
+build_script:
+  - ruby --version
+
+test_script:
+  - ruby show_env.rb

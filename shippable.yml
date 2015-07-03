@@ -1,0 +1,8 @@
+language: ruby
+
+rvm:
+  - "2.1.1"
+
+install: ruby --version
+
+script: ruby show_env.rb

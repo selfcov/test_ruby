@@ -1,0 +1,3 @@
+test:
+  override:
+    - ruby show_env.rb
